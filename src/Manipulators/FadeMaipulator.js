@@ -1,6 +1,5 @@
-class FadeMaipulator extends Manipulator{
+class FadeMaipulator{
     constructor() {
-        super();
     }
 
     createModal() {
